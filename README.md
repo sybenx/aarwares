@@ -1,5 +1,5 @@
 # AarWares
-Bartender Rules
+## Bartender Rules
 
 Shuffle deck, deal 7 cards to each player. Separate coins from deck, making two draw and discard piles: coin pile and main draw pile. Place these on opposite ends of the playing area.
 
