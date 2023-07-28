@@ -13,6 +13,6 @@ Shovels (spades) are used to "dig a hole", which is a separate shared discard pi
 
 Raiders (clubs) can be played on a bartender to raid it. If successful, the bartender is taken out of play and placed in the market (center playing field). Bartenders in the market can be obtained by any player on their turn by playing a coin card on the bartender, starting a bid. All players can participate in the bid, highest played coin card wins the bartender. To prevent a raider from raiding a bartender, a higher raider or coin card must be played. All played cards are discarded after use whether they are successful or not.
 
-Coins can also be used to advertise to a customer. If successful the customer card is transferred to the player's bar. An equal or higher value coin can be immediately played on that customer to keep it. A raider of equal or higher value can also be played to destroy the advertisement and keep the customer.
+Coins can also be used to advertise to a customer. An equal or higher value coin can be immediately played on that customer to keep it, otherwise it's transferred to the winning players bar. A raider of equal or higher value can also be played to destroy an advertisement before it is effective.
 
 To win the game, a player must have 4 of a kind of bartenders along with at least 3 customers and the Ace customer card.
