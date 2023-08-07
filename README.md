@@ -1,4 +1,4 @@
-## Bartender Rules 
+# Bartender Rules 
 Shuffle deck, deal 7 cards to each player. Separate coins from deck, making two draw and discard piles: coin pile and main draw pile, and a space for shovels. Place these on opposite ends of the playing area.
 
 In front of each player is their own bar where their cards are in play. Always immediately play bartender (KQJ) and customer (heart) cards.
